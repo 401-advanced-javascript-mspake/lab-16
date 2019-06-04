@@ -8,10 +8,6 @@
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-16/pull/1)  
 * [travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-16)  
-* [back-end](http://xyz.com) (when applicable)
-  
-#### Documentation  
-* [jsdoc](http://xyz.com) (Server assignments)
   
 ### Modules
 #### `read.js, uppercase.js, write.js, logger.js, error.js, event-emitter.js, event-names.js`  
